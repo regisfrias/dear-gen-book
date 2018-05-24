@@ -1,4 +1,4 @@
-# Dear Data Book
+# Dear Gen Book
 
 This is where we write about our adventures with the [Dear Data Project](https://github.com/regisfrias/dear-gen).
 
