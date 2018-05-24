@@ -1,6 +1,6 @@
 # Dear Gen Book
 
-This is where we write about our adventures with the [Dear Data Project](https://github.com/regisfrias/dear-gen).
+This is where we write about our adventures with the [Dear Gen Project](https://github.com/regisfrias/dear-gen).
 
 ## Compile
 
@@ -10,7 +10,7 @@ Install [Pandoc](http://pandoc.org/installing.html).
 
 Then:
 
-`pandoc -i src/*.md -s --toc -o dist/SCHEIDL_FRIAS_dear-data-book.pdf`
+`pandoc -i src/*.md -s --toc -o dist/SCHEIDL_FRIAS_dear-gen-book.pdf`
 
 ### Gitbook
 
