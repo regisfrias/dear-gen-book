@@ -1,16 +1,12 @@
 # Dear Data Book
 
-This is where we write about our adventures with the [Dear Data](https://github.com/regisfrias/dear-gen).
+This is where we write about our adventures with the [Dear Data Project](https://github.com/regisfrias/dear-gen).
 
 ## Compile
 
 ### PDF
 
-Install Pandoc:
-
-```
-brew install pandoc
-```
+Install [Pandoc](http://pandoc.org/installing.html).
 
 Then:
 
@@ -24,7 +20,7 @@ Then:
 
 1. `cd src`
 2. `sh _gitbook.sh`
-3. `cd path/to/dist`
+3. `cd path/to/dist/gitbook`
 4. Run
     `gitbook serve`
 5. Build
