@@ -1,7 +1,7 @@
 mkdir "../dist/gitbook" && cp 00-introduction.md ../dist/gitbook/README.md && touch ../dist/gitbook/SUMMARY.md;
 echo "# Summary" >> ../dist/gitbook/SUMMARY.md;
 for f in *.md ;
-  do if [ "${f}" != "00-header.md" ];
+  do if [ "${f}" != "00-introduction.md" ];
   then echo "* [" `sed '1!d' ${f}` "](${f})" >> ../dist/gitbook/SUMMARY.md;
   fi;
 done;
