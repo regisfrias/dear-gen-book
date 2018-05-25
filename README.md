@@ -4,13 +4,17 @@ This is where we write about our adventures with the [Dear Gen Project](https://
 
 ## Compile
 
-### PDF
+### PDF/Word
 
 Install [Pandoc](http://pandoc.org/installing.html).
 
 Then:
 
-`pandoc -i src/*.md -s --toc -o dist/SCHEIDL_FRIAS_dear-gen-book.pdf`
+`pandoc -i *.md -s --csl=chicago-note-bibliography.csl --filter pandoc-crossref --bibliography references.bib --toc -o ../dist/SCHEIDL_FRIAS_dear-gen-book.docx`
+
+or:
+
+`pandoc -i *.md -s --csl=chicago-note-bibliography.csl --filter pandoc-crossref --bibliography references.bib --toc -o ../dist/SCHEIDL_FRIAS_dear-gen-book.pdf`
 
 ### Gitbook
 
