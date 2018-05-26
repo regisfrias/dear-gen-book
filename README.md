@@ -7,7 +7,3 @@ _Dear Gen_ is series of generative drawings created by two friends living in dif
 The authors of Dear Gen share with Giorgia and Stephanie a strong interest in data, but fare better in the realm of code and mathematics.
 
 TODO: Continue
-
-## Audience
-
-TODO: To whom we are writing to.
