@@ -1,6 +1,6 @@
-## Araucária, Helsinki
+# Helsinki
 
-![Main render of the code](/.gitbook/assets/01-2018-5-14-20-14-39.png)
+![Main render of the code](../.gitbook/assets/01-2018-5-14-20-14-39.png)
 
 I didn't strictly adhere to the theme of the week, in the sense that any base image would work pretty much the same as an Araucária image. Instead, I followed the code wherever it took me.
 
@@ -12,23 +12,23 @@ What I realized during this process was that the reordered pixel array looked ve
 
 The pixel array looks like this:
 
-![Pixel array reordered by hue](/.gitbook/assets/01-hue.png)
+![Pixel array reordered by hue](../.gitbook/assets/01-hue.png)
 
 I took advantage of the fact that the hue is a bit misleading and doesn't seem to be totally ordered. That is just an optical illusion, the above image varies from reds to blues, greens are \(obviously\) in the middle. Try with a color picker!
 
 For reference, here is the same image reordered by saturation:
 
-![Saturation](/.gitbook/assets/01-saturation.png)
+![Saturation](../.gitbook/assets/01-saturation.png)
 
 It is more obviously ordered.
 
 And then by brightness:
 
-![Brightness](/.gitbook/assets/01-brightness.png)
+![Brightness](../.gitbook/assets/01-brightness.png)
 
 Now it's clearly ordered!
 
-### Step-by-step
+## Step-by-step
 
 The code for this sketch can be found on the project repository under 'Week-01'.\[@frias\_sketch\_180514b\_2018\]
 
@@ -131,3 +131,4 @@ Finally, we save the frame inside a folder called "saved-png" with the time stam
   exit();
 }
 ```
+
