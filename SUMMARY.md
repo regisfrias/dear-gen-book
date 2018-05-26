@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](00-introduction/README.md)
+* [Introduction](README.md)
   * [How the book is organized](00-introduction/how-the-book-is-organized.md)
   * [About the authors](00-introduction/about-the-authors.md)
   * [Source code](00-introduction/source-code.md)
