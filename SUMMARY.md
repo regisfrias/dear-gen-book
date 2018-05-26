@@ -10,4 +10,12 @@ description: This ToC is used by gitbook to generate the left-side navigation. I
   * [Stockholm](stockholm.md)
   * [Helsinki](helsinki.md)
 * [Universo](/02-universo/)
+* [Theme of week 3]
+* [Theme of week 4]
+* [Theme of week 5]
+* [Theme of week 6]
+* [Theme of week 7]
+* [Theme of week 8]
+* [Theme of week 9]
+* [Theme of week 10]
 
