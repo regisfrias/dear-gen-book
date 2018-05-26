@@ -1,3 +1,6 @@
+---
+title: Dear Gen
+---
 # Dear Gen
 
 _by_ [_Half Scheidl_](https://github.com/haschdl) _and_ [_Régis Frias_](http://regisfrias.com/)
