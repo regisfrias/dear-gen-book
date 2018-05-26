@@ -3,8 +3,7 @@ description: This ToC is used by gitbook to generate the left-side navigation. I
 ---
 # Table of contents
 
-* [Dear Gen](/.github/README.md)
-* [Introduction](introduction.md)
+* [Introduction](/00-introduction/introduction.md)
   * [How the book is organized](/00-introduction/how-the-book-is-organized.md)
   * [About the authors](/00-introduction/about-the-authors.md)
   * [Source code](/00-introduction/source-code.md)
