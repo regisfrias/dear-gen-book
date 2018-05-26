@@ -1,7 +1,3 @@
-# Dear Gen Book
-
-This is where we write about our adventures with the [Dear Gen Project](https://github.com/regisfrias/dear-gen).
-
 ## Compile
 
 ### PDF/Word
