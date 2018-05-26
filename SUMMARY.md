@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Introduction](01-introduction/README.md)
-  * [How the book is organized](01-introduction/how-the-book-is-organized.md)
-  * [About the authors](01-introduction/about-the-authors.md)
-  * [Source code](01-introduction/source-code.md)
+* [Introduction](00-introduction/README.md)
+  * [How the book is organized](00-introduction/how-the-book-is-organized.md)
+  * [About the authors](00-introduction/about-the-authors.md)
+  * [Source code](00-introduction/source-code.md)
 * [Araucária](02-araucaria/README.md)
   * [Stockholm](02-araucaria/stockholm.md)
   * [Helsinki](02-araucaria/helsinki.md)
