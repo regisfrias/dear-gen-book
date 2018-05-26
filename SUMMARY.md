@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](00-introduction.md)
+* [Introduction](README.md)
+* [Introduction](introduction.md)
 * [01](01.md)
-
 
