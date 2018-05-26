@@ -6,9 +6,9 @@ description: This ToC is used by gitbook to generate the left-side navigation. I
 * [Dear Gen](README.md)
 * [Introduction](introduction.md)
   * [How is the book structured](book.md)
-* [Araucária](/01-araurcaria/)
-  * [Stockholm](stockholm.md)
-  * [Helsinki](helsinki.md)
+* [Araucária](/01-araucaria/)
+  * [Stockholm](/01-araucaria/stockholm.md)
+  * [Helsinki](/01-araucaria/helsinki.md)
 * [Universo](/02-universo/)
 * [Theme of week 3]
 * [Theme of week 4]
