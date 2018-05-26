@@ -5,7 +5,9 @@ description: This ToC is used by gitbook to generate the left-side navigation. I
 
 * [Dear Gen](/.github/README.md)
 * [Introduction](introduction.md)
-  * [How is the book structured](book.md)
+  * [How the book is organized](/00-introduction/how-the-book-is-organized.md)
+  * [About the authors](/00-introduction/about-the-authors.md)
+  * [Source code](/00-introduction/source-code.md)
 * [Araucária](/01-araucaria/readme.md)
   * [Stockholm](/01-araucaria/stockholm.md)
   * [Helsinki](/01-araucaria/helsinki.md)
