@@ -1,7 +1,7 @@
 # Table of contents
 
 
-* Introduction
+* Dear Gen
   * [Introduction](00-introduction/readme.md)
   * [How the book is organized](00-introduction/how-the-book-is-organized.md)
   * [About the authors](00-introduction/about-the-authors.md)
