@@ -4,10 +4,10 @@
   * [How the book is organized](00-introduction/how-the-book-is-organized.md)
   * [About the authors](00-introduction/about-the-authors.md)
   * [Source code](00-introduction/source-code.md)
-* [Araucária](02-araucaria/README.md)
-  * [Stockholm](02-araucaria/stockholm.md)
-  * [Helsinki](02-araucaria/helsinki.md)
-* Universo
+* [Araucária](01-araucaria/README.md)
+  * [Stockholm](01-araucaria/stockholm.md)
+  * [Helsinki](01-araucaria/helsinki.md)
+* [Universo](02-universo/README.md)
   * Stockholm
   * Helsinki
 * \[Theme of week 3\]
