@@ -1,8 +1,6 @@
 # Table of contents
 
-* Introduction
-* Dear Gen
+* [Introduction](00-introduction.md)
 * [01](01.md)
-* Dear Gen Book
-* [00-introduction](00-introduction.md)
+
 
