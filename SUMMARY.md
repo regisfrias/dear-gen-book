@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Introduction](introduction/README.md)
-  * [How the book is organized](introduction/how-the-book-is-organized.md)
-  * [About the authors](introduction/about-the-authors.md)
-  * [Source code](introduction/source-code.md)
-* [Araucária](araucaria/README.md)
-  * [Stockholm](araucaria/stockholm.md)
-  * [Helsinki](araucaria/helsinki.md)
+* [Introduction](01-introduction/README.md)
+  * [How the book is organized](01-introduction/how-the-book-is-organized.md)
+  * [About the authors](01-introduction/about-the-authors.md)
+  * [Source code](01-introduction/source-code.md)
+* [Araucária](02-araucaria/README.md)
+  * [Stockholm](02-araucaria/stockholm.md)
+  * [Helsinki](02-araucaria/helsinki.md)
 * Universo
   * Stockholm
   * Helsinki
