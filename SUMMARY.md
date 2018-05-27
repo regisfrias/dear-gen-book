@@ -1,13 +1,13 @@
 # Table of contents
 
 * [Foreword](README.md)
-* [Introduction](introduction/README.md)
+* [Introduction](ch00-introduction/README.md)
   * [How the book is organized](ch00-introduction/how-the-book-is-organized.md)
   * [About the authors](ch00-introduction/about-the-authors.md)
   * [Source code](ch00-introduction/source-code.md)
-* [Araucária](ch02-araucaria/README.md)
-  * [Stockholm](ch02-araucaria/stockholm.md)
-  * [Helsinki](ch02-araucaria/helsinki.md)
+* [Araucária](ch01-araucaria/README.md)
+  * [Stockholm](ch01-araucaria/stockholm.md)
+  * [Helsinki](ch01-araucaria/helsinki.md)
 * [Universo](universo/README.md)
   * Stockholm
   * Helsinki
