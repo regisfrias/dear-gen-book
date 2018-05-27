@@ -30,7 +30,7 @@ Now it's clearly ordered!
 
 ## Step-by-step
 
-The code for this sketch can be found on the project repository under 'Week-01'.[^2]
+The code for this sketch can be found on the project repository under 'Week-01'.[^1]
 
 Let's now go through the code to see how it works. The first few lines create global variables for the sorted color array, the image that will be loaded and the scale of the output image — i.e., how many times the output image will be bigger than the input.
 
@@ -69,7 +69,7 @@ void setup(){
 }
 ```
 
-The sorting algorithm was shamelessly ripped off from Adamchik[^1] and is simingly simple:
+The sorting algorithm was shamelessly ripped off from Adamchik[^2] and is simingly simple:
 
 ```java
 int[] bubbleSort(int ar[]) {
@@ -86,7 +86,7 @@ int[] bubbleSort(int ar[]) {
 }
 ```
 
-Adamchik[^2] explains it so:
+Adamchik[^3] explains it so:
 
 > The algorithm works by selecting the smallest unsorted item and then swapping it with the item in the next position to be filled. The selection sort works as follows: you look through the entire array for the smallest element, once you find it you swap it \(the smallest element\) with the first element of the array. Then you look for the smallest element in the remaining array \(an array without the first element\) and swap it with the second element. Then you look for the smallest element in the remaining array \(an array without first and second elements\) and swap it with the third element, and so on.
 
@@ -134,8 +134,8 @@ Finally, we save the frame inside a folder called "saved-png" with the time stam
 
 ## References
 
-[^1]: Adamchik, Victor S. “Sorting,” 2009. https://www.cs.cmu.edu/~adamchik/15-121/lectures/Sorting%20Algorithms/sorting.html.
+[^1]: Frias, Régis. <i>sketch_180514b</i>, 2018. https://github.com/regisfrias/dear-gen/tree/master/Week-01/sketch_180514b.
 
-[^2]: Id. ibid.
+[^2]: Adamchik, Victor S. “Sorting,” 2009. https://www.cs.cmu.edu/~adamchik/15-121/lectures/Sorting%20Algorithms/sorting.html.
 
-[^3]: Frias, Régis. <i>sketch_180514b</i>, 2018. https://github.com/regisfrias/dear-gen/tree/master/Week-01/sketch_180514b.
+[^3]: Id. ibid.
