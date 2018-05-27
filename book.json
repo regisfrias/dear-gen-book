@@ -1,3 +1,4 @@
 {
-  "plugins": ["code","collapsible-menu"]
+  "plugins": ["code","collapsible-menu"],
+  "title" : "Dear Gen"
 }
