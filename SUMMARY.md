@@ -1,14 +1,14 @@
 # Table of contents
 
-* [Dear Gen](README.md)
-* [Introduction](00-introduction/readme.md)
-  * [How the book is organized](00-introduction/how-the-book-is-organized.md)
-  * [About the authors](00-introduction/about-the-authors.md)
-  * [Source code](00-introduction/source-code.md)
-* [Araucária](01-araucaria/README.md)
-  * [Stockholm](01-araucaria/stockholm.md)
-  * [Helsinki](01-araucaria/helsinki.md)
-* [Universo](02-universo/README.md)
+* [Foreword](README.md)
+* [Introduction](introduction/README.md)
+  * [How the book is organized](introduction/how-the-book-is-organized.md)
+  * [About the authors](introduction/about-the-authors.md)
+  * [Source code](introduction/source-code.md)
+* [Araucária](araucaria/README.md)
+  * [Stockholm](araucaria/stockholm.md)
+  * [Helsinki](araucaria/helsinki.md)
+* [Universo](universo/README.md)
   * Stockholm
   * Helsinki
 * \[Theme of week 3\]
