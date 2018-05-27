@@ -1,4 +1,7 @@
 {
   "plugins": ["code","collapsible-menu"],
   "title" : "Dear Gen"
+  "structure" : {
+      "languages" : "LANGS.md"
+}
 }
