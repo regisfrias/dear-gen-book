@@ -13,6 +13,3 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Araucaria):
 ## [Helsinki](helsinki.md)
 
 ![](../.gitbook/assets/01-2018-5-14-20-14-39.png)
-
-## References
-
