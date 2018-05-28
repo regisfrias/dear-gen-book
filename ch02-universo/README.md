@@ -2,7 +2,8 @@
 
 `Universo` was the second theme for Dear Gen, and the first one proposed by Régis.
 
-## [Helsinki](https://github.com/haschdl/dear-gen-book/tree/eb67d558905efea33aa01af7f6954900a5c6a039/02-universo/helsinki.md)
+## [Helsinki](helsinki.md)
 
-## [Stockholm](https://github.com/haschdl/dear-gen-book/tree/eb67d558905efea33aa01af7f6954900a5c6a039/02-universo/stockholm.md)
+![](../.gitbook/assets/02-2018-5-24-18-29-45-planets-orbit.png)
 
+## [Stockholm](stockholm.md)

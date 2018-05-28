@@ -8,9 +8,9 @@
 * [Araucária](ch01-araucaria/README.md)
   * [Stockholm](ch01-araucaria/stockholm.md)
   * [Helsinki](ch01-araucaria/helsinki.md)
-* [Universo](universo/README.md)
+* [Universo](ch02-universo/README.md)
+  * [Helsinki](ch02-universo/helsinki.md)
   * Stockholm
-  * Helsinki
 * \[Theme of week 3\]
 * \[Theme of week 4\]
 * \[Theme of week 5\]
@@ -19,4 +19,3 @@
 * \[Theme of week 8\]
 * \[Theme of week 9\]
 * \[Theme of week 10\]
-

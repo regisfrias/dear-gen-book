@@ -2,6 +2,8 @@
 
 ![Main render of the code](../.gitbook/assets/01-2018-5-14-20-14-39.png)
 
+## Creative process
+
 I didn't strictly adhere to the theme of the week, in the sense that any base image would work pretty much the same as an Araucária image. Instead, I followed the code wherever it took me.
 
 I started searching for images of araucária trees, which I find beautiful. Then I tried to capture their logic with some algorithm. The first draft is that attempt and can be seen in previous versions of the code \(up to [6dfebaf357587c6513298256939ef758f90f8105](https://github.com/regisfrias/dear-gen/commit/6dfebaf357587c6513298256939ef758f90f8105)\).
