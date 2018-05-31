@@ -56,7 +56,9 @@ And with `PL_RADE`:
 Which amounts to:
 
 ![Orbital Period](../.gitbook/assets/02-2018-5-24-18-29-45-planets-orbit.png)
+
 ![Planet Mass](../.gitbook/assets/02-2018-5-24-18-32-31-planets-mass.png)
+
 ![Planet Radius](../.gitbook/assets/02-2018-5-24-18-33-59-planets-radius.png)
 
 The last variable in the beginning of the file is a class created by Daniel Shiffman[^2] for the Processing example on loading tabular data.

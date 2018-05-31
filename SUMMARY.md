@@ -11,7 +11,9 @@
 * [Universo](ch02-universo/README.md)
   * [Helsinki](ch02-universo/helsinki.md)
   * Stockholm
-* \[Theme of week 3\]
+* [Palha](ch03-palha/README.md)
+  * Stockholm
+  * [Helsinki](ch03-palha/helsinki.md)
 * \[Theme of week 4\]
 * \[Theme of week 5\]
 * \[Theme of week 6\]
