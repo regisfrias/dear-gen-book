@@ -1,7 +1,0 @@
-{
-  "plugins": ["code","collapsible-menu", "language-picker"],
-  "title" : "Dear Gen",
-  "structure" : {
-      "languages" : "LANGS.md"
-}
-}
