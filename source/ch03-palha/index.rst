@@ -5,8 +5,8 @@ Palha
    :hidden:
    :maxdepth: 2
 
-   helsinki
    stockholm
+   helsinki
 
 *Sent: 04.06.2018*
 

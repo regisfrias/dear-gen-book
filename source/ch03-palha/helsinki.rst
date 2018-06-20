@@ -339,18 +339,13 @@ to the bottom. The hue will vary from ``180`` to ``360`` so we don't get
 the full rainbow spectrum.
 
 .. figure:: ../assets/03-background.png
-   :alt:
 
 The final result is the image at the top. Plus a number of variations.
 
 .. figure:: ../assets/03-2018-5-30-20-27-18-palha.png
-   :alt:
 
 .. figure:: ../assets/03-2018-5-30-20-27-23-palha.png
-   :alt:
 
 .. figure:: ../assets/03-2018-5-30-20-27-30-palha.png
-   :alt:
 
 .. figure:: ../assets/03-2018-5-30-20-35-10-palha.png
-   :alt:

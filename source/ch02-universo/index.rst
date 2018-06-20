@@ -5,8 +5,8 @@ Universo
    :hidden:
    :maxdepth: 2
 
-   stockholm
    helsinki
+   stockholm
 
 *Sent: 28.05.2018*
 
