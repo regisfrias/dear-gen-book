@@ -1,0 +1,26 @@
+.wy-nav-content-wrap {
+  background: #fcfcfc;
+}
+
+.wy-side-nav-search input[type="text"] {
+  border-color: #6b7074;
+}
+
+.wy-nav-side {
+  background-color: #f6f3f9;
+}
+
+.wy-menu-vertical a {
+  color: #484848;
+}
+
+.wy-side-nav-search {
+  background-color: #83888F;
+}
+
+.wy-menu-vertical a:hover,
+.wy-menu-vertical li.toctree-l2.current li.toctree-l3 > a:hover,
+.wy-menu-vertical li.current a:hover
+{
+  background-color: white;
+}

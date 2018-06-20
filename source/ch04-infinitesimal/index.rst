@@ -10,7 +10,7 @@ Infinitesimal
 
 *Sent: Not sent yet!*
 
-Infinitesimal
+Description
 
 .. figure:: ../assets/04-helsinki.png
     :target: helsinki

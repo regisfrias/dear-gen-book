@@ -241,7 +241,7 @@ The vertices now look like this:
 
 So far this is very uninteresting. But I still had hopes I could get to
 the point where I was before. So I decided to make the rectangles more
-straw-like but stretching them.
+straw-like by stretching them.
 
 .. figure:: ../assets/03-streched-rects.png
    :alt:
@@ -269,7 +269,7 @@ like to me.
 At this point it was not clear yet if I was going in the right
 direction, but I decided to pursue the path anyway. So I did what I had
 done before for the original image: Made one side of the rectangles
-smaller go make them look a little like straw.
+smaller to make them look a little like straw.
 
 .. figure:: ../assets/03-smaller-side.png
    :alt:
@@ -323,7 +323,7 @@ just want the colors to vary a lot. So we can use any vertex as angle.
 .. figure:: ../assets/03-colors.png
    :alt:
 
-The final touch is to make the background a more interesting color. Or
+The final touch is to make the background have a more interesting color. Or
 rather a color gradient with the following code:
 
 .. code:: java
