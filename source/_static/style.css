@@ -1,13 +1,29 @@
+.btn-neutral {
+  background: #fafafa;
+  border: 0;
+  box-shadow: none;
+}
+
 .wy-nav-content-wrap {
-  background: #fcfcfc;
+  background: white;
+}
+
+.wy-nav-content {
+  background: transparent;
+}
+
+.wy-side-nav-search > a, .wy-side-nav-search .wy-dropdown > a {
+  color: #424242;
 }
 
 .wy-side-nav-search input[type="text"] {
-  border-color: #6b7074;
+  border: 0;
+  padding: 1em;
 }
 
 .wy-nav-side {
-  background-color: #f6f3f9;
+  background-color: #fafafa;
+  border-right: 1px solid #efefef;
 }
 
 .wy-menu-vertical a {
@@ -15,7 +31,11 @@
 }
 
 .wy-side-nav-search {
-  background-color: #83888F;
+  background-color: white;
+}
+
+.wy-menu-vertical li.current {
+  background: transparent;
 }
 
 .wy-menu-vertical a:hover,
@@ -23,4 +43,14 @@
 .wy-menu-vertical li.current a:hover
 {
   background-color: white;
+}
+
+.wy-menu-vertical li.toctree-l1.current > a {
+  background: white;
+  border: 0;
+}
+
+.wy-menu-vertical li.current a {
+  background: white;
+  color: black;
 }
