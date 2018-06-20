@@ -21,7 +21,7 @@ Dear Gen
 
    ch01*/index
    ch02*/index
-   ch03*/*
+   ch03*/index
 
 
 
