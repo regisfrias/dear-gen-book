@@ -1,0 +1,17 @@
+Universo
+========
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+
+   stockholm
+   helsinki
+
+*Sent: 28.05.2018*
+
+``Universo`` was the second theme for Dear Gen, and the first one
+proposed by Régis.
+
+.. figure:: ../assets/02-2018-5-24-18-29-45-planets-orbit.png
+   :target: helsinki

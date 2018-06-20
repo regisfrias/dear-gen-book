@@ -20,9 +20,9 @@ Dear Gen
    :caption: Compositions
 
    ch01*/index
-   ch02*/*
+   ch02*/index
    ch03*/*
-   
+
 
 
 Indices and tables

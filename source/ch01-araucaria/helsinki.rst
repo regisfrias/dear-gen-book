@@ -209,4 +209,4 @@ then exit the program, since we're not displaying anything.
 References
 ----------
 
-.. bibliography:: ../references.bib
+.. bibliography:: references.bib
