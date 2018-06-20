@@ -37,12 +37,15 @@ source_parsers = {'.md': CommonMarkParser}
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.autodoc',
+extensions = [
+    'sphinx.ext.autodoc',
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
     'sphinx.ext.imgmath',
     'sphinx.ext.ifconfig',
-    'sphinx.ext.viewcode']
+    'sphinx.ext.viewcode',
+    'sphinxcontrib.bibtex'
+]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -58,8 +61,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Dear Gen'
-copyright = '2018, Half Scheidl, Régis Frias'
-author = 'Half Scheidl, Régis Frias'
+copyright = '2018, Half Scheidl, Regis Frias'
+author = 'Half Scheidl, Regis Frias'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -155,7 +158,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'DearGen.tex', 'Dear Gen Documentation',
-     'Half Scheidl, Régis Frias', 'manual'),
+     'Half Scheidl, Regis Frias', 'manual'),
 ]
 
 
@@ -179,6 +182,3 @@ texinfo_documents = [
      author, 'DearGen', 'One line description of project.',
      'Miscellaneous'),
 ]
-
-
-

@@ -2,9 +2,9 @@ Helsinki
 ========
 
 .. figure:: ../assets/01-2018-5-14-20-14-39.png
-   :alt: Final artwork
+   :alt: Final drawing
 
-   Final artwork
+   Final drawing
 
 Creative process
 ----------------
@@ -16,8 +16,7 @@ Instead, I followed the code wherever it took me.
 I started searching for images of araucária trees, which I find
 beautiful. Then I tried to capture their logic with some algorithm. The
 first draft is that attempt and can be seen in previous versions of the
-code (up to
-`6dfebaf357587c6513298256939ef758f90f8105 <https://github.com/regisfrias/dear-gen/commit/6dfebaf357587c6513298256939ef758f90f8105>`__).
+code. :cite:`frias_commit_2018`
 
 I ended up with a fractal structure that resembles some leaf patterns
 (not necessarily araucárias only). Then I decided to use the colors from
@@ -63,9 +62,6 @@ Now it's clearly ordered!
 
 Step-by-step
 ------------
-
-The code for this sketch can be found on the project repository under
-'Week-01'. [1]_
 
 Let's now go through the code to see how it works. The first few lines
 create global variables for the sorted color array, the image that will
@@ -119,7 +115,7 @@ it.
       sortedColors = bubbleSort(img.pixels);
     }
 
-The sorting algorithm was shamelessly ripped off from Adamchik [2]_ and
+The sorting algorithm was shamelessly ripped off from Adamchik :cite:`adamchik_sorting_2009` and
 is simingly simple:
 
 .. code:: java
@@ -137,7 +133,7 @@ is simingly simple:
       return ar;
     }
 
-Adamchik [3]_ explains it so:
+Adamchik :cite:`adamchik_sorting_2009` explains it so:
 
     The algorithm works by selecting the smallest unsorted item and then
     swapping it with the item in the next position to be filled. The
@@ -213,13 +209,4 @@ then exit the program, since we're not displaying anything.
 References
 ----------
 
-.. [1]
-   Frias, Régis. sketch\_180514b, 2018.
-   https://github.com/regisfrias/dear-gen/tree/master/Week-01/sketch\_180514b.
-
-.. [2]
-   Adamchik, Victor S. “Sorting,” 2009.
-   https://www.cs.cmu.edu/~adamchik/15-121/lectures/Sorting%20Algorithms/sorting.html.
-
-.. [3]
-   Id. ibid.
+.. bibliography:: ../references.bib
