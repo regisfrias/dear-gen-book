@@ -10,6 +10,7 @@
 
 .wy-nav-content {
   background: transparent;
+  margin: auto;
 }
 
 .wy-side-nav-search > a, .wy-side-nav-search .wy-dropdown > a {
@@ -40,7 +41,8 @@
 
 .wy-menu-vertical a:hover,
 .wy-menu-vertical li.toctree-l2.current li.toctree-l3 > a:hover,
-.wy-menu-vertical li.current a:hover
+.wy-menu-vertical li.current a:hover,
+.wy-menu-vertical li.toctree-l2.current > a
 {
   background-color: white;
 }
