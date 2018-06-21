@@ -7,11 +7,11 @@ Dear Gen
 ========
 
 .. toctree::
+   :glob:
    :maxdepth: 2
-   :includehidden:
    :caption: Introduction
 
-   ch00-introduction/index
+   ch00*/index
 
 
 .. toctree::
