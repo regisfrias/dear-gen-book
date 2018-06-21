@@ -4,6 +4,8 @@ About the book
 \_by `Half Scheidl`<https://github.com/haschdl> and
 `Régis Frias`<http://regisfrias.com/>
 
+**This is still a work in progress! Check back soon ;)**
+
 *Dear Gen* is series of generative drawings created by two friends
 living in different countries, who mailed each other a new drawing every
 Monday, for 20 weeks. The name of our project is a tribute to beautiful
