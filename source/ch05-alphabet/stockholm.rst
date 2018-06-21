@@ -11,13 +11,17 @@ It is not certain why alphabets have such name, but its suggested that it correl
 
 Inspiration
 ***********
-Reading about the omni-presence of the letter A in many languages reminded of the short story Aleph, from Jorge Luís Borges, which in turn reminded me of the The Babel Library:
+Reading about the omni-presence of the letter A in many languages reminded of the short story Aleph, from Jorge Luís Borges, which in turn reminded me of the The Babel Library::
 
-(wikipedia quote)
+
+      Borges' narrator describes how his universe consists of an enormous expanse of. 
+      adjacent hexagonal rooms, each of which contains the bare necessities for human  
+      survival--and four walls of bookshelves.
+
 
 When I read Wikipedias entry I immediately hooked on drawing my representation of the Babel library using adjacent hexagons, just like an hexagonal tiling:
 
-(sample tiling image with he agons)
+.. figure:: /assets/hexagontiling.png
 
 My first sketch was to draw a regular hexagon as a shape. In this code I use radius in reference to the circumference containing the hexagon, which happens to be the same as the side of the regular hexagon ( l). 
 (code for polygon)
