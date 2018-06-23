@@ -17,8 +17,8 @@ From `Wikipedia <https://en.wikipedia.org/wiki/Araucaria>`__:
    species are endemic, see New Caledonian Araucaria), Norfolk Island,
    eastern Australia, New Guinea, Argentina, Chile, and Brazil.
 
-.. figure:: /assets/01-sto-araucaria.jpg
+.. figure:: ../assets/01-sto-araucaria.jpg
     :caption: "Stockholm"
 
-.. figure:: /assets/01-2018-5-14-20-14-39.png
+.. figure:: ../assets/01-2018-5-14-20-14-39.png
     :legend: "Helsinki"
