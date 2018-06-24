@@ -14,4 +14,11 @@ Universo
 proposed by Régis.
 
 .. figure:: /assets/02-2018-5-24-18-29-45-planets-orbit.png
-   :target: helsinki
+   
+   :doc:`helsinki`  
+
+
+.. figure:: /assets/03-sto-universo-2000.jpg
+   
+   :doc:`stockholm`
+

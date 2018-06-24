@@ -15,19 +15,46 @@ I decided to abandon this idea when I realized that it would be easier in 3D tha
 
 Organic threads
 ---------------
-Each thread of the straw weave is composed by 10 individual "lines". The simplest way to draw a line in Processing is to use `line()`, providing the coordinates of the starting and end points.
-(code excerpt)
+Each thread of the straw weave is composed by 10 individual "lines". The simplest way to draw a line in 
+Processing is to use ``line()`` [1]_, providing the coordinates of the starting and end points.
+
+.. code-block:: Java
+    :emphasize-lines: 3
+
+    void strawStraightLines(float x, float y, float w, float h ) {
+    for (int j=0; j<=10; j++) {
+        line(x, y, x, y+h);
+        translate(w/10, 0);
+    }
+    }
+
 
 To make the output more organic, we can replace the straight line with smaller line segments which connect points in varying positions.
 
-(schematic drawing, on the left a staight line, on the the right 2 to 4 lines build using noise and segments)
++--------------------+---------------+---------------------+
+| Straight lines     | Line segments | Segments with noise |
++--------------------+---------------+---------------------+
+| |image0|           | |image1|      | |image2|            |
++--------------------+---------------+---------------------+
+
+.. |image0| image:: ../assets/03-straightlines.png
+
+.. |image1| image:: ../assets/03-linesegments.png
+
+.. |image2| image:: ../assets/03-segmentswithnoise.png
+
 
 Drawing a mesh
 --------------
-
+To be continued.
 
 
 Other techniques
 ----------------
-* Palette
-While drawing the thread, I randomly pick one item from a list of 5 colors. The technique is described in ``. 
+
+* Palette  
+
+While drawing the thread, I randomly pick one item from a list of 5 colors.  
+The technique is described in :ref:`techniques-palette`. 
+
+.. [1] https://processing.org/reference/line\_.html

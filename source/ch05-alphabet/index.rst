@@ -13,4 +13,10 @@ Alfabeto
 Description
 
 .. figure:: ../assets/05-helsinki.png
-    :target: helsinki
+    
+    :doc:`helsinki`
+
+
+.. figure:: ../assets/05-stockholm.jpg
+    
+    :doc:`stockholm`

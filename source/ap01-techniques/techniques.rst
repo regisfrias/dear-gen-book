@@ -1,6 +1,8 @@
 Techniques
 ==========
 
+.. _techniques-palette:
+
 Using a palette of colors
 -------------------------
 

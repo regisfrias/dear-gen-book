@@ -13,4 +13,10 @@ Infinitesimal
 Description
 
 .. figure:: ../assets/04-helsinki.png
-    :target: helsinki
+    
+    :doc:`helsinki`
+
+
+.. figure:: ../assets/04-stockholm.jpg
+    
+    :doc:`stockholm`

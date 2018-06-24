@@ -14,8 +14,10 @@ Palha
 the Brazilian spirit of the first week.
 
 .. figure:: ../assets/03-helsinki.png
-    :target: helsinki
+    
+    :doc:`helsinki`
 
 
 .. figure:: ../assets/03-sto-medium.jpeg
-   :alt:
+   
+   :doc:`stockholm`
