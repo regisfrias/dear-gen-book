@@ -32,6 +32,11 @@ Dear Gen
    ch04*/index
    ch05*/index
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Appendices
+
+   techniques
 
 
 Indices and tables
