@@ -13,5 +13,5 @@ Universo
 ``Universo`` was the second theme for Dear Gen, and the first one
 proposed by Régis.
 
-.. figure:: ../assets/02-2018-5-24-18-29-45-planets-orbit.png
+.. figure:: /assets/02-2018-5-24-18-29-45-planets-orbit.png
    :target: helsinki

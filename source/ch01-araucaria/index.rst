@@ -18,7 +18,7 @@ From `Wikipedia <https://en.wikipedia.org/wiki/Araucaria>`__:
    eastern Australia, New Guinea, Argentina, Chile, and Brazil.
 
 .. figure:: /assets/01-sto-araucaria.jpg
-    :target: stockholm
+    :target: stockholm_
 
 .. figure:: /assets/01-2018-5-14-20-14-39.png
-    :target: helsinki
+    :target: helsinki_
