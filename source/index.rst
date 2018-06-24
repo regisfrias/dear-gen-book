@@ -36,7 +36,7 @@ Dear Gen
    :maxdepth: 2
    :caption: Appendices
 
-   techniques
+   ap01-techniques/techniques
 
 
 Indices and tables
