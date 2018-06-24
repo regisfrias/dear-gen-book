@@ -1,4 +1,0 @@
-# Stockholm
-
-![](../assets/01-sto-araucaria.jpg)
-

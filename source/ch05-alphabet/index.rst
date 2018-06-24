@@ -1,4 +1,4 @@
-Alphabet
+Alfabeto
 ========
 
 .. toctree::

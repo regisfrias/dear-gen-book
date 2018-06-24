@@ -15,3 +15,7 @@ the Brazilian spirit of the first week.
 
 .. figure:: ../assets/03-helsinki.png
     :target: helsinki
+
+
+.. figure:: ../assets/03-sto-medium.jpeg
+   :alt:
