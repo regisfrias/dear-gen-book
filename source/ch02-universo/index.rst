@@ -18,7 +18,7 @@ proposed by Régis.
    :doc:`helsinki`  
 
 
-.. figure:: /assets/03-sto-universo-2000.jpg
+.. figure:: /assets/02-stockholm.png
    
    :doc:`stockholm`
 
