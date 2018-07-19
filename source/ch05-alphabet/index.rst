@@ -17,6 +17,6 @@ Description
     :doc:`helsinki`
 
 
-.. figure:: ../assets/05-stockholm.jpg
+.. figure:: ../assets/05-stockholm.png
     
     :doc:`stockholm`
