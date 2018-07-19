@@ -1,5 +1,5 @@
-Palha
-=====
+Straw *Palha*
+=============
 
 .. toctree::
    :hidden:

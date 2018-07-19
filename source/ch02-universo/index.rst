@@ -1,5 +1,5 @@
-Universo
-========
+Universe *Universo*
+===================
 
 .. toctree::
    :hidden:
