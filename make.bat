@@ -27,6 +27,7 @@ if errorlevel 9009 (
 )
 
 %SPHINXBUILD% -M %1 %SOURCEDIR% %BUILDDIR% %SPHINXOPTS%
+start "" "_build/html/index.html"
 goto end
 
 :help
