@@ -1,5 +1,5 @@
-Alphabet *Alfabeto*
-===================
+Roof *Telhado*
+==============
 
 .. toctree::
    :hidden:
@@ -12,11 +12,11 @@ Alphabet *Alfabeto*
 
 Description
 
-.. figure:: ../assets/05-helsinki.png
+.. figure:: ../assets/07-helsinki.png
     
     :doc:`helsinki`
 
 
-.. figure:: ../assets/05-stockholm.png
+.. figure:: ../assets/07-stockholm.jpg
     
     :doc:`stockholm`

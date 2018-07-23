@@ -1,5 +1,5 @@
-Infinitesimal
-=============
+Infinitesimal *Infinitesimal*
+=============================
 
 .. toctree::
    :hidden:

@@ -26,12 +26,8 @@ Dear Gen
    :maxdepth: 2
    :caption: Compositions
 
-   ch01*/index
-   ch02*/index
-   ch03*/index
-   ch04*/index
-   ch05*/index
-
+   ch0*/index
+   
 .. toctree::
    :maxdepth: 2
    :caption: Appendices

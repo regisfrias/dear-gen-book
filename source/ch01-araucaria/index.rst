@@ -1,5 +1,5 @@
-Araucária
-=========
+Araucaria *Araucária*
+=====================
 
 .. toctree::
    :hidden:
