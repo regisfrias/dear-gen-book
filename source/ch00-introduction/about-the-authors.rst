@@ -3,7 +3,7 @@ About the authors
 
 Régis Frias
 -----------
-My first steps in generative art were with music. I studied `electroacoustic composition <https://soundcloud.com/regisfrias/siderurgia>`_ and was soon drewn to the creative possibilities of computer code. Later I studied graphic design and discovered Processing, which was very suitable for my little visual experiments. After I came to Finland, to study New Media at Aalto Universtity I started focusing more on learning programming, mostly to work with front end development, but also to be able to use code expressively. Today I spend part of my time doing front end design and develpment and a smaller part doing generative art. Music is still one of the most important things in my life.
+My first steps in generative art were with music. I studied `electroacoustic composition <https://soundcloud.com/regisfrias/siderurgia>`_ and was soon drewn to the creative possibilities of computer code. Later I studied graphic design and discovered Processing, which was very suitable for my little visual experiments. After I came to Finland, to study New Media at Aalto Universtity I started focusing more on learning programming, mostly to work with front end development, but also to be able to use code expressively. Today I spend part of my time doing front end design and development and a smaller part doing generative art. Music is still one of the most important things in my life.
 
 Half Scheidl aka haschdl
 ------------------------
