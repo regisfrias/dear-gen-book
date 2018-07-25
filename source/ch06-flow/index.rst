@@ -18,6 +18,6 @@ Description
     :doc:`helsinki`
 
 
-.. figure:: ../assets/06-stockholm.jpg
+.. figure:: ../assets/06-stockholm.png
     
     :doc:`stockholm`

@@ -5,9 +5,9 @@ Stockholm
    :alt:
 
 *Infinitesimal* is the word to represent the minuscule, the so small is that almost not there. It is a concept 
-particular important in mathematics, more specific in calculus. I did not want to dig too deep in the mathematical 
+frequent in mathematics, more specific in the early studies of calculus. I did not want to dig too deep in the mathematical 
 exploration of the concept, but as a starting point, I chose to play with drawing points along the `tangent` function.
-The choice for the `tangent` was simply because it is the trigonometric function which has a limit to infinity for certain angles. 
+The choice for the `tangent` was simply because it is the trigonometric function which has a limit to infinity for certain input values. 
 Sine and cosine functions, on the other hand, always return values between -1 and 1.  
 
 .. figure:: ../assets/04-tan-01.png 
