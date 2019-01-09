@@ -1,6 +1,6 @@
 Stockholm
 =========
 
-.. figure:: ../assets/07-stockholm.png
+.. figure:: ../assets/07-stockholm.jpg
    :alt:
 

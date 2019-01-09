@@ -20,7 +20,7 @@ Dear Gen
    :maxdepth: 2
    :caption: Compositions
 
-   ch0*/index
+   ch**/index
    
 .. toctree::
    :maxdepth: 2
