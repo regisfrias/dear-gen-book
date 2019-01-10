@@ -1,6 +1,5 @@
-============
-Flow *Fluxo*
-============
+Music *Música*
+==============
 
 .. toctree::
    :hidden:
@@ -13,11 +12,11 @@ Flow *Fluxo*
 
 Description
 
-.. figure:: ../assets/06-helsinki.png
+.. figure:: ../assets/12-helsinki.png
     
     :doc:`helsinki`
 
 
-.. figure:: ../assets/06-stockholm.jpg
+.. figure:: ../assets/12-stockholm.jpg
     
     :doc:`stockholm`

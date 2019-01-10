@@ -1,7 +1,5 @@
+Time *Tempo*
 ============
-Flow *Fluxo*
-============
-
 .. toctree::
    :hidden:
    :maxdepth: 2
@@ -13,11 +11,11 @@ Flow *Fluxo*
 
 Description
 
-.. figure:: ../assets/06-helsinki.png
+.. figure:: ../assets/11-helsinki.png
     
     :doc:`helsinki`
 
 
-.. figure:: ../assets/06-stockholm.jpg
+.. figure:: ../assets/11-stockholm.jpg
     
     :doc:`stockholm`

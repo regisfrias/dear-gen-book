@@ -1,6 +1,5 @@
-============
-Flow *Fluxo*
-============
+Birth *Nascimento*
+==================
 
 .. toctree::
    :hidden:
@@ -13,11 +12,11 @@ Flow *Fluxo*
 
 Description
 
-.. figure:: ../assets/06-helsinki.png
+.. figure:: ../assets/08-helsinki.png
     
     :doc:`helsinki`
 
 
-.. figure:: ../assets/06-stockholm.jpg
+.. figure:: ../assets/08-stockholm.jpg
     
     :doc:`stockholm`

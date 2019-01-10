@@ -1,6 +1,5 @@
-============
-Flow *Fluxo*
-============
+Autumun *Outono*
+================
 
 .. toctree::
    :hidden:
@@ -13,11 +12,11 @@ Flow *Fluxo*
 
 Description
 
-.. figure:: ../assets/06-helsinki.png
+.. figure:: ../assets/10-helsinki.png
     
     :doc:`helsinki`
 
 
-.. figure:: ../assets/06-stockholm.jpg
+.. figure:: ../assets/10-stockholm.jpg
     
     :doc:`stockholm`

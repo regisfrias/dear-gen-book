@@ -1,7 +1,5 @@
-.. Dear Gen documentation master file, created by
-   sphinx-quickstart on Tue Jun 12 22:13:48 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. Notes:
+    25.07.2018 "preface" is still empty, therefore I removed from index.
 
 Dear Gen
 ========
@@ -11,14 +9,10 @@ Dear Gen
    :maxdepth: 3
    :caption: Introduction
 
-   ch00-introduction/preface
    ch00-introduction/about-the-book
    ch00-introduction/about-the-authors
    ch00-introduction/how-the-book-is-organized
    ch00-introduction/source-code
-
-
-
 
 
 .. toctree::
@@ -26,7 +20,7 @@ Dear Gen
    :maxdepth: 2
    :caption: Compositions
 
-   ch0*/index
+   ch**/index
    
 .. toctree::
    :maxdepth: 2
