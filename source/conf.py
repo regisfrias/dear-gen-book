@@ -183,3 +183,18 @@ texinfo_documents = [
      author, 'DearGen', 'One line description of project.',
      'Miscellaneous'),
 ]
+
+
+# If true, `todo` and `todoList` produce output, else they produce nothing.
+todo_include_todos = True
+
+rst_epilog = """
+.. |p_noise| replace:: `noise()`_
+.. _noise(): https://processing.org/reference/noise_.html
+
+.. |p_curveVertex| replace:: `curveVertex()`_
+.. _curveVertex(): https://processing.org/reference/curveVertex_.html
+
+
+
+"""
