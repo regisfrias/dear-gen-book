@@ -12,7 +12,7 @@ Water *Água*
 
 Description
 
-.. figure:: ../assets/13-helsinki.png
+.. figure:: ../assets/13-helsinki.jpg
     
     :doc:`helsinki`
 

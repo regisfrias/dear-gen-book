@@ -12,7 +12,7 @@ Music *Música*
 
 Description
 
-.. figure:: ../assets/12-helsinki.png
+.. figure:: ../assets/12-helsinki.jpg
     
     :doc:`helsinki`
 

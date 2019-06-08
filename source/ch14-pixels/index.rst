@@ -1,5 +1,6 @@
-Pixel(s)
-============
+===============
+Pixels *Pixels*
+===============
 
 .. toctree::
    :hidden:

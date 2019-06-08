@@ -43,6 +43,7 @@ extensions = [
     'sphinx.ext.coverage',
     'sphinx.ext.imgmath',
     'sphinx.ext.ifconfig',
+    'sphinx.ext.extlinks',
     'sphinx.ext.viewcode',
     'sphinxcontrib.bibtex'
 ]
@@ -198,3 +199,6 @@ rst_epilog = """
 
 
 """
+
+#See http://www.sphinx-doc.org/en/master/usage/extensions/extlinks.html#module-sphinx.ext.extlinks
+extlinks = {'commit': ('https://github.com/haschdl/dear-gen-code/commit/%s','commit ')}
