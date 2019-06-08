@@ -28,7 +28,35 @@ The reason is that this is a visually rich area and all of the small variations 
 The algorithm
 -------------
 
-We start with an exponential sequence:
+We start with an exponential function (y=t\ :superscript:`3`):
+
+.. figure:: ../assets/14-exponential-function.png
+  :alt: Exponential function
+
+.. code:: java
+
+  float incr = 0.01; // Increment; smaller values create less spaced points
+  float deform = 3; // How pronounced the deformation of the grid is;
+                    // larger values make the right-most spacing larger
+
+  void setup() {
+    size(800, 600);
+    noLoop();
+    noStroke();
+    fill(0);
+  }
+
+  void draw() {
+    background(255);
+    for(float i = 0; i < 1; i += incr){
+      float x = i*width;                          // just scale 'i' to the screen width
+      float y = height - pow(i, deform) * height; // y = i^3 (0 <= i < 1)
+      noStroke();
+      ellipse(x, y, 5, 5);
+    }
+  }
+
+In the above image the horizontal axis is constant while the vertical axis varies exponentially. But if we instead keep the vertical axis constant and vary the horizontal one we get the same curve, but as if it was viewed from the side.
 
 .. figure:: ../assets/14-exponential-sequence.png
   :alt: Exponential sequence
@@ -36,6 +64,40 @@ We start with an exponential sequence:
 .. code:: java
 
   float incrX = 0.01;
+  float deform = 10; // In the previous example this was 3,
+                     // but with a larger number it is easier to see the variation
+
+  void setup() {
+    size(800, 600);
+    noLoop();
+    noStroke();
+    fill(0);
+  }
+
+  void draw() {
+    background(255);
+    for(float i = 0; i < 1; i += incrX){
+      float x = pow(i, deform) * width;   // x = i^10
+      float y = height/2;                 // constant height
+      noStroke();
+      ellipse(x, y, 5, 5);
+    }
+  }
+
+Now we can add the vertical axis with the same logic. But if we repeat it exactly it will look boring:
+
+.. figure:: ../assets/14-exponential-sequence-vertical-boring.png
+  :alt: Exponential sequence with added vertical axis using the same logic.
+
+So instead of using the normal formula (`float y = pow(j, deform) * height;`) for the `y` values we use that as basis for a cosine wave which has a larger and larger amplitude as it goes from the top to the bottom.
+
+.. figure:: ../assets/14-exponential-sequence-vertical.png
+  :alt: Exponential sequence with added horizontal axis.
+
+.. code:: java
+
+  float incrX = 0.01;
+  float incrY = 0.01;
   float deform = 20;
 
   void setup() {
@@ -46,14 +108,16 @@ We start with an exponential sequence:
   }
 
   void draw() {
-    for(float i = 0; i < 1; i += incrX){
-      float x1 = pow(i-incrX, deform) * width;
-      float ang1 = map(x1, 0, width, PI, TWO_PI);
-      ellipse(x1, height/2, 5, 5);
+    background(215);
+    for(float j = 0; j < 1; j += incrY){            // vertical axis
+      for(float i = 0; i < 1; i += incrX){          // horizontal axis
+        float x = pow(i, deform) * width;           // x = i^20
+        float ang = map(x, 0, width, PI, TWO_PI);   // Pi <= ang <= 2*Pi to draw a nice curve
+        float varY = pow(j, deform) * height;       // varY = j^20
+        float y = (cos(ang)/2 + 0.5) * varY;        // from top to bottom describing a cosine curve
+
+        noStroke();
+        ellipse(x, y, 5, 5);
+      }
     }
   }
-
-Then we want to repeat that across the vertical axis and expand it in the same way based on its vertical position:
-
-.. figure:: ../assets/14-helsinki-grid.png
-  :alt: Simplified version
