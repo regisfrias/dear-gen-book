@@ -34,6 +34,7 @@ We start with an exponential sequence:
   :alt: Exponential sequence
 
 .. code:: java
+
   float incrX = 0.01;
   float deform = 20;
 
