@@ -100,10 +100,10 @@ The same area in an image generated with ``PL_MASSE`` looks like this:
 And with ``PL_RADE``:
 
 .. figure:: ../assets/02-pl_rade.png
-   :alt: Detail of the image generated based on Planet Radius (Earth
-   radii)
+   :alt: Detail of the image generated based on Planet Radius (Earth radii)
 
    Detail of the image generated based on Planet Radius (Earth radii)
+
 
 Which amounts to:
 

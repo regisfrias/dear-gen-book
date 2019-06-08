@@ -25,8 +25,9 @@ Dear Gen
 .. toctree::
    :maxdepth: 2
    :caption: Appendices
+   :glob:
 
-   ap01-techniques/techniques
+   appendices/*
 
 
 Indices and tables
