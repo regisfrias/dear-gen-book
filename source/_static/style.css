@@ -57,3 +57,7 @@
   background: white;
   color: black;
 }
+
+iframe {
+  border: 0;
+}
