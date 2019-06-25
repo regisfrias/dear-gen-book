@@ -6,8 +6,8 @@ Helsinki
 
    Final drawing
 
-Creative process
-----------------
+Inspiration
+-----------
 
 Time makes me think of music (which probably raised the idea for the following chapter); music makes me think of a score. For some reason the first thing that came to my mind within this subject was Iannis Xenakis's notation of orchestral glissandi:
 
